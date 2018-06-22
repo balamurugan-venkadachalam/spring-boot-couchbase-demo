@@ -1,2 +1,2 @@
-Spring Data + Couchbase Db
+Spring Boot + Spring Data + Couchbase Nosql DB
 
